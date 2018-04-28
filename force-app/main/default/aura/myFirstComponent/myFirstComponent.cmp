@@ -1,4 +1,5 @@
 <aura:component >
     <h1>Hello world VS code....</h1>
     <h2>This is updated using dev console.....</h2>
+    <strong>Testing git in Salesforce DX</strong>
 </aura:component>
