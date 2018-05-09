@@ -13,3 +13,4 @@
 
 
 This is just to show how to use Git with Salesforce DX
+This is the documentation of this repo
