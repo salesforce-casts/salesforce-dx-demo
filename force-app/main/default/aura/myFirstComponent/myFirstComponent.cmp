@@ -2,4 +2,6 @@
     <h1>Hello world VS code....</h1>
     <h2>This is updated using dev console.....</h2>
     <strong>Testing git in Salesforce DX</strong>
+
+    <h2>This is added to when we tried commiting the code using VS Code terminal</h2>
 </aura:component>
