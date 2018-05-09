@@ -4,4 +4,6 @@
     <strong>Testing git in Salesforce DX</strong>
 
     <h2>This is added to when we tried commiting the code using VS Code terminal</h2>
+
+    <h2>Added some more text to test short cuts</h2>
 </aura:component>
